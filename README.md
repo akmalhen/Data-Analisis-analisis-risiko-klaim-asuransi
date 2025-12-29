@@ -1,2 +1,32 @@
-# Data-Analisis-analisis-risiko-klaim-asuransi
-Proyek "learning by doing" untuk menganalisis faktor risiko klaim asuransi. Studi kasus end-to-end menggunakan Python &amp; Tableau.
+# Analisis Faktor Risiko pada Frekuensi Klaim Asuransi Kendaraan
+
+Proyek ini merupakan bagian dari proses belajar mandiri (lerning by doing). Proyek ini mencakup proses analisis data, mulai dari pembersihan data mentah hingga pembuatan dashboard interaktif.
+
+Tujuan utamanya adalah untuk mempraktikkan penerapan teknik analisis data untuk menjawab pertanyaan bisnis yang relevan di industri asuransi.
+
+### **Latar Belakang Proyek**
+
+Dalam simulasi ini, saya berperan sebagai seorang Data Analyst yang ditugaskan untuk menganalisis data klaim asuransi kendaraan. Pertanyaan utama yang ingin dijawab adalah: **"Faktor apa saja yang memiliki korelasi signifikan dengan tingginya frekuensi klaim dari nasabah?"**
+
+Hasil dari analisis ini diharapkan dapat memberikan *insight* awal bagi tim *underwriting* dan *pricing* dalam pengambilan keputusan.
+
+*   **Sumber Dataset:**
+    * [French Motor Third-Party Liability Claims dari Kaggle](https://www.kaggle.com/datasets/floser/french-motor-claims-datasets-fremtpl2freq)
+*   **Teknologi yang Digunakan:**
+    *   **Python:** 
+    *   **SQL
+    *   **Tableau (Visualisasi)** 
+
+
+### **Metodologi Analisis**
+
+1.  **Data Cleaning & Preprocessing:**
+2.  **Exploratory Data Analysis (EDA):**
+3.  **Feature Engineering:**
+4.  **Data Visualization & Insight Generation:**
+
+### **Temuan & Insight Utama**
+[kaggle]
+
+### **Dashboard Interaktif**
+[Tableu]
