@@ -1,6 +1,6 @@
 # Analisis Faktor Risiko pada Frekuensi Klaim Asuransi Kendaraan
 
-Proyek ini merupakan bagian dari proses belajar mandiri (lerning by doing). Proyek ini mencakup proses analisis data, mulai dari pembersihan data mentah hingga pembuatan dashboard interaktif.
+Proyek ini merupakan bagian dari proses belajar mandiri (learning by doing). Proyek ini mencakup proses analisis data, mulai dari pembersihan data mentah hingga pembuatan dashboard interaktif.
 
 Tujuan utamanya adalah untuk mempraktikkan penerapan teknik analisis data untuk menjawab pertanyaan bisnis yang relevan di industri asuransi.
 
@@ -25,8 +25,8 @@ Hasil dari analisis ini diharapkan dapat memberikan *insight* awal bagi tim *und
 3.  **Feature Engineering:**
 4.  **Data Visualization & Insight Generation:**
 
-### **Temuan & Insight Utama**
-[kaggle]
+### **Analisis**
+[kaggle](https://www.kaggle.com/code/akmalhendrian/data-analisis-risiko-klaim-asuransi)
 
-### **Dashboard Interaktif**
+### **Dashboard**
 [Tableu]
