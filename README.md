@@ -29,4 +29,4 @@ Hasil dari analisis ini diharapkan dapat memberikan *insight* awal bagi tim *und
 [kaggle](https://www.kaggle.com/code/akmalhendrian/data-analisis-risiko-klaim-asuransi)
 
 ### **Dashboard**
-[Tableu]
+[Tableu](https://public.tableau.com/app/profile/akmal.hendrian/viz/RisikoKlaimAsuransi/Dashboard1)
