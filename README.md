@@ -14,7 +14,7 @@ Hasil dari analisis ini diharapkan dapat memberikan *insight* awal bagi tim *und
     * [French Motor Third-Party Liability Claims dari Kaggle](https://www.kaggle.com/datasets/floser/french-motor-claims-datasets-fremtpl2freq)
 *   **Teknologi yang Digunakan:**
     *   **Python:** 
-    *   **SQL
+    *   **SQL**
     *   **Tableau (Visualisasi)** 
 
 
